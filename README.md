@@ -16,19 +16,6 @@ Welcome to my portfolio website! This project showcases my personal details, ski
 ## 🌐 Live Demo
 You can view the live version of my portfolio here: https://sivapraveena-20.github.io/Sivapraveena_Portfolio/
 
-## 🛠 How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/portfolio-website.git
-Navigate to the project directory:
-bash
-Copy code
-cd portfolio-website
-Open the index.html file in your web browser.
-📷 Screenshots
-Home Page
-
-Projects Page
 
 ✨ Future Improvements
 Add more animations for an engaging user experience.
