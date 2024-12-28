@@ -14,7 +14,7 @@ Welcome to my portfolio website! This project showcases my personal details, ski
 - **JavaScript** for interactivity and animations.
 
 ## 🌐 Live Demo
-You can view the live version of my portfolio here: [Your Portfolio Link](https://your-portfolio-link)
+You can view the live version of my portfolio here: https://sivapraveena-20.github.io/Sivapraveena_Portfolio/
 
 ## 🛠 How to Run Locally
 1. Clone this repository:
